@@ -1,1 +1,0 @@
-print("segundo ejercicio commit 2")
